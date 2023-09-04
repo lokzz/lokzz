@@ -1,3 +1,3 @@
-\>\>\>| user.name = lokzz
+\>\>\>| *user.name* = **lokzz**
 
-\>\>\>| waiting for {0}
+\>\>\>| **waiting for {0}**
