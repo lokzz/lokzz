@@ -1,2 +1,2 @@
->>>| user.name = lokzz
->>>| waiting for {0}
+\>\>\>| user.name = lokzz
+\>\>\>| waiting for {0}
