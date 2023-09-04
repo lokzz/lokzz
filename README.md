@@ -1,3 +1,9 @@
-\>\>\>| *user.name* = **lokzz**
+\>\>- for i in usr.info: print(i)
 
-\>\>\>| **waiting for {0}**
+\>\>| {'name': 'lokzz'}
+
+\>\>| {'currentlang': ['python']}
+
+\>\>| {'targetlangs': ['java', 'swift', 'html', 'javascript']}
+
+\>\>| [usr.github] -> github.com/lokzz
