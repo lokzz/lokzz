@@ -1,4 +1,4 @@
-\>\>- *for i in usr.info*: **print(i)**
+\>\>- for i in usr.info: **print(i)**
 
 \>\>| {'*name*': '**lokzz**'}
 
